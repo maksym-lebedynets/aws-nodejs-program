@@ -31,7 +31,7 @@ plugins:
 
 custom:
   client:
-    bucketName: my-new-test-app-bucket
+    bucketName: apple-store
     distributionFolder: build
 
   s3LocalPath: ${self:custom.client.distributionFolder}/
